@@ -1,3 +1,46 @@
-theme: jekyll-theme-cayman
-title: Welcome to my homepage
-description: Feel free to bookmark and subscribe
+
+# SEO settings
+title: "Meni"
+title2: "Orenbach" # default: ""
+description: "Description"
+keywords: "Jekyll, code"
+url: http://shmeni.github.io # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Meni Orenbach"
+  job      : "PhD candidate at the EE faculty in the Technion, Israel."
+  bio      : "I also like to trek, cycle, run and swim when I get the chance."
+  email    : ""
+  url      : http://shmeni.github.io
+  github   : http://github.com/shmeni
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : projects
+    title: Projects
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
