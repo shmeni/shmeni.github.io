@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Hello!"
+date:   2017-05-01 18:21:03 +0300
+categories: posts
+---
+
+In the last week, I've attended <a href="http://eurosys2017.org/">The European Conference on Computer System (EuroSys)</a>, which was held at the Crown Plaza hotel in Belgrade, Serbia.
+
+Being a conference-newbe so to say, I must say that EuroSys was highly impressive. Specifically, the conference room provided was big enough to hold around ~300 people, yet at the same time maintain a sense of spacious.
+
+The papers presented were divided into several sessions as follows:
+TODO: table
+
+
+- PictureS!!!
+- The conference venue
+- The papers
+- The best papers
+- The poster session
+- The food
+- The banquet
+- The app
+- The trip
