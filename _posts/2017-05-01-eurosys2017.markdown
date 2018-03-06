@@ -5,9 +5,21 @@ date:   2017-05-01 18:21:03 +0300
 categories: posts
 ---
 
-In the last week, I've attended <a href="http://eurosys2017.org/">The European Conference on Computer System (EuroSys)</a>, which was held at the Crown Plaza hotel in Belgrade, Serbia.
+Last week, I attended <a href="http://eurosys2017.org/">The European Conference on Computer System (EuroSys)</a>, which was held at the Crown Plaza hotel in Belgrade, Serbia.
 
-Being a conference-newbe so to say, I must say that EuroSys was highly impressive. Specifically, the conference room provided was big enough to hold around ~300 people, yet at the same time maintain a sense of spacious.
+Being a conference-newbie so to say, I must say that EuroSys was highly impressive. Specifically, the conference room provided was big enough to hold the ~300 people that attended.
+
+<img src="" />
+
+Here are a couple of the presentation I particuraliy liked!
+
+<h1>SGXBounds: ...</h1>
+
+TBD
+
+<h1>
+
+
 
 The papers presented were divided into several sessions as follows:
 TODO: table
