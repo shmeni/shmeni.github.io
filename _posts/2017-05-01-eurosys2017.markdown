@@ -1,36 +1,8 @@
 ---
 layout: post
-title:  "Hello!"
-date:   2017-05-01 18:21:03 +0300
+title:  "TBD"
+date:   2019-02-01 10:21:03 +0300
 categories: posts
 ---
 
-Last week, I attended <a href="http://eurosys2017.org/">The European Conference on Computer System (EuroSys)</a>, which was held at the Crown Plaza hotel in Belgrade, Serbia.
-
-Being a conference-newbie so to say, I must say that EuroSys was highly impressive. Specifically, the conference room provided was big enough to hold the ~300 people that attended.
-
-<img src="" />
-
-Here are a couple of the presentation I particuraliy liked!
-
-<h1>SGXBounds: ...</h1>
-
 TBD
-
-<h1>
-
-
-
-The papers presented were divided into several sessions as follows:
-TODO: table
-
-
-- PictureS!!!
-- The conference venue
-- The papers
-- The best papers
-- The poster session
-- The food
-- The banquet
-- The app
-- The trip
