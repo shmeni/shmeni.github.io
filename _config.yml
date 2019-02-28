@@ -1,7 +1,7 @@
 
 # SEO settings
 title: "Meni"
-title2: "Orenbach" # default: ""
+title2: "" # default: ""
 description: "Description"
 keywords: "Jekyll, code"
 url: http://shmeni.github.io # site url
@@ -24,7 +24,7 @@ sass:
 # Author settings
 author:
   name     : "Meni Orenbach"
-  job      : "PhD candidate at the EE faculty in the Technion, Israel."
+  job      : "PhD candidate at the EE faculty in the Technion, Israel"
   bio      : "I also like to trek, cycle, run and swim when I get the chance."
   email    : ""
   url      : http://shmeni.github.io
