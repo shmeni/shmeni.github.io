@@ -28,4 +28,5 @@ In case you are interested in this, what I believe to be an exciting developing 
 to the project page to see what I'm currently looking at. Most of them usually find their way to GitHub.
 
 References:
-Bryan Parno • Jonathan M. McCune • Adrian Perrig - Bootstrapping Trust in Modern Computers
+
+[1] Bryan Parno • Jonathan M. McCune • Adrian Perrig - Bootstrapping Trust in Modern Computers
