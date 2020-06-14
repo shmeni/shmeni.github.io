@@ -24,7 +24,7 @@ sass:
 # Author settings
 author:
   name     : "Meni Orenbach"
-  job      : "PhD candidate at the EE faculty in the Technion, Israel"
+  job      : "PhD Candidate. Always looking for new challenges"
   bio      : "I also like to trek, cycle, run and swim when I get the chance."
   email    : ""
   url      : http://shmeni.github.io
@@ -40,7 +40,7 @@ navbar:
     title: About
   - slug : projects
     title: Projects
-  - slug : blog
-    title: Blog
+  - slug : publications
+    title: Publications
 
 exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
