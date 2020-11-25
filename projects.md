@@ -6,9 +6,13 @@ permalink: /projects/
 
 I'm supervising projects in the NSSL lab at the Technion, see below for selected projects.
 
-Secured shared memory for enclaves. 2018
+Crash-resistant integrity tree. 2020.
 
-Secure communication between heterogeneous enclaves. 2018
+Ransomware detection in file systems. 2020
+
+Secured shared memory for enclaves. 2019
+
+Secure communication between heterogeneous enclaves. 2019
 
 Secured keyboard for enclaves. 2018 
 
