@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm currently a PhD candidate at the Electrical Engeeniring Faculty at the Technion, Haifa, Israel.
+I'm currently a PhD candidate at the [Accelerated Computing Systems Lab](http://acsl.group/) advised by Prof. Mark Silberstein.
+I'm interested in programming languages, operating systems and security.
 
 ![board](/assets/home/about.png)  
 
