@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I'm currently a PhD candidate at the [Accelerated Computing Systems Lab](http://acsl.group/) advised by Prof. Mark Silberstein.
-I'm interested in programming languages, operating systems and security.
+I'm a security researcher and NBU, NVIDIA. Prior to that I completed my PhD at the [Accelerated Computing Systems Lab](http://acsl.group/) and was advised by Prof. Mark Silberstein.
+I'm interested in programming languages, and system security.
 
 ![board](/assets/home/about.png)  
 
