@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+
+Live System Call Trace Reconstruction on Linux. Thanh Nguyen, Meni Orenbach, Ahmad Atamli - DFRWS USA 2022.
+
 Autarky: Closing controlled channels with self-paging enclaves. Meni Orenbach, Andrew Baumann, Mark Silberstein - EuroSys'20.
 
 CoSMIX: A compiler-based system for secure memory instrumentation and execution in enclaves. Meni Orenbach, Yan Michalevsky, Christof Fetzer, Mark Silberstein – USENIX ATC’19.
