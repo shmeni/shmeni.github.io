@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
+Securing Access to Untrusted Services From TEEs with GateKeeper - arXiv 2022.
 
 Live System Call Trace Reconstruction on Linux. Thanh Nguyen, Meni Orenbach, Ahmad Atamli - DFRWS USA 2022.
 
